@@ -4,5 +4,11 @@
 
 **Фабричный метод** делегирует создание объектов наследникам родительского класса.
 
+### UML Diagram
+
+![UML Diagram](uml.png)
+
+### My UML Diagram
+
 ![UML Diagram](diag.png)
 
