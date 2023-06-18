@@ -2,7 +2,7 @@
 
 **Facade** pattern provides a simplified interface for a complex system.
 
-Шаблон **декоратор** предоставляет упрощенный интерфейс для сложной системы.
+Шаблон **фасад** предоставляет упрощенный интерфейс для сложной системы.
 
 ### Theoretical UML Diagram
 
